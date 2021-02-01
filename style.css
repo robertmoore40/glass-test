@@ -23,3 +23,8 @@ p {
     font-weight: 600;
     opacity: 0.8;
   }
+
+  main {
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(to right top, #65dfc9, #6cdbeb);
