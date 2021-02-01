@@ -97,3 +97,7 @@ main {
   .link h2 {
     padding: 0rem 2rem;
   }
+
+  .games {
+    flex: 2;
+  }
