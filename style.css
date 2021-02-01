@@ -86,3 +86,7 @@ main {
   );
   border-radius: 2rem;
 }
+
+.link {
+    display: flex;
+    margin: 2rem 0rem;
