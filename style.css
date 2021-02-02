@@ -127,3 +127,6 @@ main {
     margin-bottom: 3rem;
   }
   
+
+  .status input {
+    background: linear-gradient(
