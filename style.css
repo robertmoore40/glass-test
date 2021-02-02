@@ -183,3 +183,7 @@ main {
   flex-direction: column;
   justify-content: space-between;
 }
+
+
+.percentage {
+  font-weight: bold;
