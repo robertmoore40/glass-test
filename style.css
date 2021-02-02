@@ -121,3 +121,9 @@ main {
     color: white;
     font-weight: 600;
   }
+
+/* Game Options */
+  .status {
+    margin-bottom: 3rem;
+  }
+  
