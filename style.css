@@ -145,3 +145,6 @@ main {
   flex-direction: column;
   justify-content: space-evenly;
 }
+
+.card {
+  display: flex;
