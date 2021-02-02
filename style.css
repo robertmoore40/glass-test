@@ -177,3 +177,6 @@ main {
   position: absolute;
   left: 60%;
 }
+
+.card-info {
+  display: flex;
