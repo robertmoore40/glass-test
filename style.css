@@ -112,3 +112,6 @@ main {
 
   .pro img {
     position: absolute;
+    top: -10%;
+    right: 10%;
+  }
