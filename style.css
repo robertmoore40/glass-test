@@ -115,3 +115,7 @@ main {
     top: -10%;
     right: 10%;
   }
+
+  .pro h2 {
+    width: 40%;
+    color: white;
