@@ -162,3 +162,5 @@ main {
 
 .progress {
   background: linear-gradient(to right top, #65dfc9, #6cdbeb);
+  width: 100%;
+  height: 25%;
